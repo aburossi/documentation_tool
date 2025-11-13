@@ -1,0 +1,5 @@
+{
+  "name": "Assignment Stepper",
+  "description": "A flexible, multi-page stepper interface for completing assignments, driven by a JSON configuration. This application allows students to navigate through various steps of an assignment, with progress saved securely to a backend.",
+  "requestFramePermissions": []
+}
